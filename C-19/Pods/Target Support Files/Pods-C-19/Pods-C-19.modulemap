@@ -1,0 +1,6 @@
+framework module Pods_C_19 {
+  umbrella header "Pods-C-19-umbrella.h"
+
+  export *
+  module * { export * }
+}
